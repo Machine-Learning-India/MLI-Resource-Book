@@ -18,43 +18,30 @@
   * From old to state-of-the-art
   * from generic to specific areas
   * focus on state-of-the-art
-* [Lots of Deep Learning Resourc](http://deeplearning4j.org/documentation.html)[Interesting Deep Learning and NLP Projects \(Stanford\)](http://cs224d.stanford.edu/reports.html), [Webs](http://cs224d.stanford.edu/)[Core Concepts of Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
-* [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
-* [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
-* [Deep Learning FAQs on Quora](https://www.quora.com/topic/Deep-Learning/faq)
-* [Google+ Deep Learning Page](https://plus.google.com/communities/112866381580457264725)
-* [Recent Reddit AMAs related to Deep Learning](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [Another AMA](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
-* [Where to Learn Deep Learning?](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
-* [Deep Learning nvidia concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
-* [Introduction to Deep Learning Using Python \(GitHub\)](https://github.com/rouseguy/intro2deeplearning), [Good Introduction Slides](https://speakerdeck.com/bargava/introduction-to-deep-learning)
-* [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
-* [Deep Learning Software List](http://deeplearning.net/software_links/)
-* [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
-* [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
-* [Geoff Hinton Youtube Vidoes on Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
-* [Awesome Deep Learning Reading List](http://deeplearning.net/reading-list/)
-* [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
-* [deeplearning Tutorials](http://deeplearning4j.org/)
-* [AWESOME! Deep Learning Tutorial](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
-* [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
-* [Intuition Behind Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
-* [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
-* [Train, Validation & Test in Artificial Neural Networks](http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ)
-* [Artificial Neural Networks Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
-* [Neural Networks FAQs on Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
-* [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)
-* [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
+* [Lots of Deep Learning Resourc](http://deeplearning4j.org/documentation.html)[Interesting Deep Learning and NLP Projects \(Stanford\)](http://cs224d.stanford.edu/reports.html), [Webs](http://cs224d.stanford.edu/)[Core  Concepts of Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/) Parallel Forall that aims to provide an intuitive and gentle introduction to[ deep learning](https://developer.nvidia.com/deep-learning).
+* [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/) Language is the medium of human communication. Giving machines the ability to learn and understand language enables products and possibilities that are not imaginable today.
+* [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) his tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning.
+* [Deep Learning FAQs on Quor](https://www.quora.com/topic/Deep-Learning/faq)​[Google+ Deep Learning ](https://plus.google.com/communities/112866381580457264725)[Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html) Deep Learning is a very hot Machine Learning techniques which has been achieving remarkable results recently. We give a list of free resources for learning and using Deep Learning.
+* [Introduction to Deep Learning Using Python \(GitHub\)](https://github.com/rouseguy/intro2deeplearning), Introduction to Deep Learning and resources to get started
+* [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)[Deep Learning Software List](http://deeplearning.net/software_links/)[Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html) Top deep learning papers on arXiv are presented, summarized, and explained with the help of a leading researcher in the field.
+* [Geoff Hinton Youtube Vidoes on Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)​[Awesome Deep Learning Reading List](http://deeplearning.net/reading-list/)
+* [deeplearning Tutorials](http://deeplearning4j.org/) Open-source, distributed, deep learning library for the JVM
+* [AWESOME! Deep Learning Tutorial](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) This tutorial will introduce you to the key concepts and algorithms behind deep learning, beginning with the simplest unit of composition and building to the concepts of machine learning in Java.
+* [Deep Learning Basic](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)[Intuition Behind Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c) Breaking down Neural Networks: An intuitive approach to Backpropagation.
+* [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/) Multi-Layer Neural Network.
+* [Train, Validation & Test in Artificial Neural Networks](http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ) Difference between train, validation and test set, in neural networks.
+* [Artificial Neural Networks Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks) Good resources for learning about Artificial Neural Networks.
+* [Neural Networks FAQs on Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50) Network structure inspired by simplified models of biological neurons \(brain cells\). Neural networks are trained to "learn" by supervised and unsupervised techniques, and can be used to solve optimization problems, approximation problems, classify patterns, and combinations thereof.
+* [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)​[Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) _Neural Networks and Deep Learning_ is a free online book. The book will teach you about:
+  * Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
+  * Deep learning, a powerful set of techniques for learning in neural networks
 * Neural Machine Translation
-  * [**Machine Translation Reading List**](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list)
-  * [Introduction to Neural Machine Translation with GPUs \(part 1\)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
-  * [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
-
-
-
+  * [**Machine Translation Reading List**](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list) ****This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
+  * [Introduction to Neural Machine Translation with GPUs \(part 1\)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/) Neural machine translation is a recently proposed framework for machine translation based purely on neural networks
+  * [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learni](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/). ​
 * Deep Learning Frameworks
-  * * [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
-  * [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
-  * [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
+  * [Torch vs. Theano](http://fastml.com/torch-vs-theano/) Recently we took a look at [Torch 7](http://fastml.com/loading-data-in-torch-is-a-mess/) and found its data ingestion facilities less than impressive. Torch’s biggest competitor seems to be [Theano](http://deeplearning.net/software/theano/index.html), a popular deep-learning framework for Python.
+  * [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)​[Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/) Curated list of deep Learning Libraries by Language.
   * [Theano](https://en.wikipedia.org/wiki/Theano_%28software%29)
     * [Website](http://deeplearning.net/software/theano/)
     * [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
@@ -94,11 +81,8 @@
       * [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
     * [Creating Custom Model For Android Using TensorFlow](https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb)
       * [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)
-
-
-
 * Feed Forward Networks
-  * * [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+  * [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
   * [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
   * [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
   * [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
@@ -110,11 +94,8 @@
   * [NN for Beginners](http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of)
   * [Regression and Classification with NNs \(Slides\)](http://www.autonlab.org/tutorials/neural13.pdf)
   * [Another Intro](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
-
-
-
 * Recurrent and LSTM Networks
-  * * [awesome-rnn: list of resources \(GitHub Repo\)](https://github.com/kjw0612/awesome-rnn)
+  * [awesome-rnn: list of resources \(GitHub Repo\)](https://github.com/kjw0612/awesome-rnn)
   * [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
   * [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
   * [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn), [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
@@ -144,36 +125,24 @@
   * Gated Recurrent Units \(GRU\)
     * [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
   * [Time series forecasting with Sequence-to-Sequence \(seq2seq\) rnn models](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
-
-
-
 * [Recursive Neural Network \(not Recurrent\)](https://en.wikipedia.org/wiki/Recursive_neural_network)
   * [Recursive Neural Tensor Network \(RNTN\)](http://deeplearning4j.org/recursiveneuraltensornetwork.html)
   * [word2vec, DBN, RNTN for Sentiment Analysis](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
-
-
-
 * Restricted Boltzmann Machine
-  * * [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
+  * [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
   * [Another Good Tutorial](http://deeplearning.net/tutorial/rbm.html)
   * [Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
   * [Hinton's Guide to Training RBMs](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
   * [RBMs in R](https://github.com/zachmayer/rbm)
   * [Deep Belief Networks Tutorial](http://deeplearning4j.org/deepbeliefnetwork.html)
   * [word2vec, DBN, RNTN for Sentiment Analysis](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
-
-
-
 * Autoencoders: Unsupervised \(applies BackProp after setting target = input\)
-  * * [Andrew Ng Sparse Autoencoders pdf](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
+  * [Andrew Ng Sparse Autoencoders pdf](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
   * [Deep Autoencoders Tutorial](http://deeplearning4j.org/deepautoencoder.html)
   * [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
   * [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
-
-
-
 * Convolutional Neural Networks
-  * * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+  * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
   * [Awesome Deep Vision: List of Resources \(GitHub\)](https://github.com/kjw0612/awesome-deep-vision)
   * [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
   * [Understanding CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
@@ -183,11 +152,8 @@
   * [Deep learning to classify business photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
   * [Interview with Yann LeCun \| Kaggle](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
   * [Visualising and Understanding CNNs](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
-
-
-
 * Network Representation Learning
-  * * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+  * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
   * [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
   * [Network Representation Learning Papers](https://github.com/thunlp)
   * [Knowledge Representation Learning Papers](https://github.com/thunlp/KRLPapers)
