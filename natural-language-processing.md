@@ -2,17 +2,17 @@
 
 
 
-* [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing)
-* [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
-* [tf-idf explained](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
-* [Interesting Deep Learning NLP Projects Stanford](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
-* [The Stanford NLP Group](https://nlp.stanford.edu/)
-* [NLP from Scratch \| Google Paper](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
-* [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
+* [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing) A curated list of speech and natural language processing resources that can be useful for beginners.
+* [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/) Language is the medium of human communication. Giving machines the ability to learn and understand language enables products and possibilities that are not imaginable today.
+* [tf-idf explained](http://michaelerasm.us/post/tf-idf-in-10-minutes/) What is TF-IDF? The 10 minute guide
+* [Interesting Deep Learning NLP Projects Stanford](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/) Deep Learning for Natural Language Processing
+* [The Stanford NLP Group](https://nlp.stanford.edu/) The Natural Language Processing Group at Stanford University is a team of faculty, postdocs, programmers and students who work together on algorithms that allow computers to process and understand human languages.
+* [NLP from Scratch \| Google Paper](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf) Natural Language Processing \(almost\) from Scratch
+* [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf) Graph-based Semi-Supervised Learning Algorithms for NLP
 * [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
-  * [Classification text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
-* * Topic Modeling
-  * * [Topic Modeling Wikipedia](https://en.wikipedia.org/wiki/Topic_model)
+  * [Classification text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) 
+* Topic Modeling
+  * [Topic Modeling Wikipedia](https://en.wikipedia.org/wiki/Topic_model)
   * [**Probabilistic Topic Models Princeton PDF**](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
   * [LDA Wikipedia](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA Wikipedia](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
   * [What is a good explanation of Latent Dirichlet Allocation \(LDA\)?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
@@ -34,9 +34,9 @@
   * [Gaussian LDA for Topic Models with Word Embeddings](http://www.cs.cmu.edu/~rajarshd/papers/acl2015.pdf)
   * Python
     * [Series of lecture notes for probabilistic topic models written in ipython notebook](https://github.com/arongdari/topic-model-lecture-note)
-    * [Implementation of various topic models in Python](https://github.com/arongdari/python-topic-model)
-* * word2vec
-  * * [Google word2vec](https://code.google.com/archive/p/word2vec)
+    * [Implementation of various topic models in Python](https://github.com/arongdari/python-topic-model) 
+* word2vec
+  * [Google word2vec](https://code.google.com/archive/p/word2vec)
   * [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
   * [word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
   * [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
