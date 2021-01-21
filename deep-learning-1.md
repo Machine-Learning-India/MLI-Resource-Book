@@ -1,23 +1,24 @@
 # Deep Learning
 
-* [Complete Guide to TensorFlow for Deep Learning with Python](https://career.guru99.com/recommends/deeplearning-2/)
-* [Deep Learning Specialization](https://career.guru99.com/recommends/deeplearning-1/)
-* [Deep Learning with Python and Keras](https://career.guru99.com/recommends/deeplearning-3/)
-* [Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs](https://career.guru99.com/recommends/deeplearning-4/)
-* [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://career.guru99.com/recommends/deeplearning-5/)
-* [Natural Language Processing with Deep Learning in Python](https://career.guru99.com/recommends/deeplearning-6/)
-* [Deep Learning by Andrew Ng \(Coursera\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=40328&u1=ddai2&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning)
-* [IBM Data Science Professional Certificate \(Coursera\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=40328&u1=ddai12&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fibm-data-science-professional-certificate)
-* [Deep Learning by IBM \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai17&p=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fibm-deep-learning)
-* [Data Science by Harvard University \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai18&p=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science)
-* [Microsoft Professional Program in Data Science \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai19&p=https%3A%2F%2Fwww.edx.org%2Fmicrosoft-professional-program-data-science)
-* [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
-* [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
-* [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [**Deep Learning Papers Reading Roadmap**](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md)
-* [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
-* [Interesting Deep Learning and NLP Projects \(Stanford\)](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
-* [Core Concepts of Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+* [Complete Guide to TensorFlow for Deep Learning with Python](https://career.guru99.com/recommends/deeplearning-2/) Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques!
+* [Deep Learning Specialization](https://career.guru99.com/recommends/deeplearning-1/) If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
+* [Deep Learning with Python and Keras](https://career.guru99.com/recommends/deeplearning-3/) Understand and build Deep Learning models for images, text and more using Python and Keras
+* [Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs](https://career.guru99.com/recommends/deeplearning-4/) Become a Wizard of all the latest Computer Vision tools that exist out there. Detect anything and create powerful apps.
+* [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://career.guru99.com/recommends/deeplearning-5/) Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included.
+* [Natural Language Processing with Deep Learning in Python](https://career.guru99.com/recommends/deeplearning-6/) Complete guide on deriving and implementing word2vec, GloVe, word embeddings, and sentiment analysis with recursive nets.
+* [Deep Learning by Andrew Ng \(Coursera\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=40328&u1=ddai2&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) Become a Deep Learning experts. Master Deep Learning and Break into AI.
+* [IBM Data Science Professional Certificate \(Coursera\)](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=40328&u1=ddai12&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fibm-data-science-professional-certificate) Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required.
+* [Deep Learning by IBM \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai17&p=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fibm-deep-learning) This program is intended to prepare learners and equip them with skills required to become successful AI practitioners and start a career in applied Deep Learning.
+* [Data Science by Harvard University \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai18&p=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science) Throughout the program, we will be using the R software environment. You will learn R, statistical concepts, and data analysis techniques simultaneously. We believe that you can better retain R knowledge when you learn how to solve a specific problem.
+* [Microsoft Professional Program in Data Science \(edX\)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=427859&clickref=ddai19&p=https%3A%2F%2Fwww.edx.org%2Fmicrosoft-professional-program-data-science) Microsoft courses found here can be audited free or students can choose to receive a verified certificate for a small fee.
+* [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/) This course is to make deep learning accessible to as many people as possible. The only prerequisite is that you know how to code \(a year of experience is enough\), preferably in Python, and that you have at least followed a high school math course.
+* [fast.ai - Cutting Edge Deep Learning For C](http://course.fast.ai/part2.html)[A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning) A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md) The roadmap is constructed in accordance with the following four guidelines:
+  * From outline to detail
+  * From old to state-of-the-art
+  * from generic to specific areas
+  * focus on state-of-the-art
+* [Lots of Deep Learning Resourc](http://deeplearning4j.org/documentation.html)[Interesting Deep Learning and NLP Projects \(Stanford\)](http://cs224d.stanford.edu/reports.html), [Webs](http://cs224d.stanford.edu/)[Core Concepts of Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 * [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 * [Deep Learning FAQs on Quora](https://www.quora.com/topic/Deep-Learning/faq)
