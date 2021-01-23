@@ -9,9 +9,16 @@ description: >-
 
 ## About Us
 
-Founded in April of 2018, **Machine Learning India \(MLI\)**, is a thriving community of over **400,000** ardent - artificial intelligence and machine learning enthusiasts across India and the globe. We at MLI, believe that India has the potential to position itself among leaders, on the global technology map.  
-  
+Founded in April of 2018, **Machine Learning India \(MLI\)**, is a thriving community of over **400,000** ardent - artificial intelligence and machine learning enthusiasts across India and the globe. We at MLI, believe that India has the potential to position itself among leaders, on the global technology map.
+
 The goal of MLI is _to reduce the skill-gap in India, by creating a vibrant AI ecosystem and talent pool; thereby leading our country to have a significant take in the global AI revolution_. To pursue the same, we intend to democratize quality **technical education**, **resources,** and **opportunities** and make them available to all.
+
+## Social Media Links
+
+* Instagram: [https://www.instagram.com/ml.india/](https://www.instagram.com/ml.india/)
+* Linkedln: [https://www.linkedin.com/company/mlindia/](https://www.linkedin.com/company/mlindia/)
+* Twitter: [https://twitter.com/ml\_india\_](https://twitter.com/ml_india_)
+* Youtube: [https://www.youtube.com/channel/UCaKsxDijTJoXDMIgAuNYfcQ](https://www.youtube.com/channel/UCaKsxDijTJoXDMIgAuNYfcQ)
 
 ## Table of Contents
 
@@ -36,6 +43,4 @@ The goal of MLI is _to reduce the skill-gap in India, by creating a vibrant AI e
 {% page-ref page="natural-language-processing.md" %}
 
 {% page-ref page="extra.md" %}
-
-
 
