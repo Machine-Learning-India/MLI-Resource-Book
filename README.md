@@ -13,13 +13,13 @@ Founded in April of 2018, **Machine Learning India \(MLI\)**, is a thriving comm
 
 The goal of MLI is _to reduce the skill-gap in India, by creating a vibrant AI ecosystem and talent pool; thereby leading our country to have a significant take in the global AI revolution_. To pursue the same, we intend to democratize quality **technical education**, **resources,** and **opportunities** and make them available to all.
 
-## Social Media Links
+## Our Social Media Links
 
 * Follow us on Instagram for ML/AI based infographics: [https://www.instagram.com/ml.india/](https://www.instagram.com/ml.india/)
 * Follow us on Linkedln to stay updated about our events and career opportunities: [https://www.linkedin.com/company/mlindia/](https://www.linkedin.com/company/mlindia/)
 * Follow us on Twitter for latest news from the industry: [https://twitter.com/ml\_india\_](https://twitter.com/ml_india_)
-* Learn, share and network with lik-eminded AI/ML enthusiasts on our community platform: [https://mlindia.mn.co](https://mlindia.mn.co)
-* Join our 10,000 strong monthly-newsletter family: [https://bit.ly/mli-newsletter](https://bit.ly/mli-newsletter)
+* Learn, share and network with like-minded AI/ML enthusiasts on our community platform: [https://mlindia.mn.co](https://mlindia.mn.co)
+* Join our 10,000 strong monthly-newsletter subscriber family: [https://bit.ly/mli-newsletter](https://bit.ly/mli-newsletter)
 * Our Youtube Channel: [https://www.youtube.com/channel/UCaKsxDijTJoXDMIgAuNYfcQ](https://www.youtube.com/channel/UCaKsxDijTJoXDMIgAuNYfcQ)
 
 ## Table of Contents
